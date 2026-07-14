@@ -2,7 +2,7 @@
 
 export const siteConfig = {
   // 1. 网站标题与博主信息
-  title: "alpha357 の 宝藏之地",
+  title: "alpha357 の blog",
   faviconUrl: "https://bu.dusays.com/2026/07/14/6a5627caab404.jpg",
   authorName: "alpha357",
   bio: "一名大三本科废物。",
@@ -31,12 +31,12 @@ export const siteConfig = {
   photoWallImage: "https://bu.dusays.com/2026/03/24/69c1e38b4c370.jpg",
   cloudMusicIds: ["1809646618", "3361076230", "1859390262"],
   social: {
-    github: "",
+    github: "alpha357",
     gitee: "",
     google: "",
     email: "",
-    qq: "1124533793",
-    wechat: "XingHuisama",
+    qq: "3854949102",
+    wechat: "liudongxiao2006",
   },
   counts: {
     photos: 128, // 照片墙数量可以手动写死或动态计算
