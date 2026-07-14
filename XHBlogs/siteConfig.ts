@@ -12,7 +12,7 @@ export const siteConfig = {
   // 👇 【新增】导航栏中间的那个后缀/分隔符（默认是 の）
   navSuffix: "の",
 
-  navAfter: "宝藏之地",
+  navAfter: "blog",
   
   // 2. 头像设置 (支持网络链接，或将图片放入 public 文件夹后使用 "/me.jpg")
   avatarUrl: "https://bu.dusays.com/2026/07/14/6a5605977fe69.jpeg",
@@ -28,7 +28,7 @@ export const siteConfig = {
   defaultPostCover: "https://bu.dusays.com/2026/03/24/69c1e38b346cb.jpg",
 
   // 5. 首页照片墙预览图
-  photoWallImage: "https://bu.dusays.com/2026/03/24/69c1e38b4c370.jpg",
+  photoWallImage: "https://bu.dusays.com/2026/07/14/6a562c06b87f5.jpg",
   cloudMusicIds: ["28178158", "1339711987", "580817","642998"],
   social: {
     github: "https://github.com/alpha357",
