@@ -3,7 +3,7 @@
 export const siteConfig = {
   // 1. 网站标题与博主信息
   title: "alpha357 の 宝藏之地",
-  faviconUrl: "https://bu.dusays.com/2026/03/24/69c1e38ac1846.jpg",
+  faviconUrl: "https://7bu.top/image/sbQ2ZJ",
   authorName: "alpha357",
   bio: "一名大三本科废物。",
 
