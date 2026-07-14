@@ -3,7 +3,7 @@
 export const siteConfig = {
   // 1. 网站标题与博主信息
   title: "alpha357 の 宝藏之地",
-  faviconUrl: "https://bu.dusays.com/2026/07/14/6a5605977fe69.jpeg",
+  faviconUrl: "https://bu.dusays.com/2026/07/14/6a5627caab404.jpg",
   authorName: "alpha357",
   bio: "一名大三本科废物。",
 
@@ -13,9 +13,9 @@ export const siteConfig = {
   navSuffix: "の",
 
   navAfter: "宝藏之地",
-
+  
   // 2. 头像设置 (支持网络链接，或将图片放入 public 文件夹后使用 "/me.jpg")
-  avatarUrl: "https://bu.dusays.com/2026/03/24/69c1e38ac1846.jpg",
+  avatarUrl: "https://bu.dusays.com/2026/07/14/6a5605977fe69.jpeg",
 
   // 3. 网站背景设置 (二选一)
   // 如果想用纯图片背景，请在下面 bgImage 写路径，并将 useGradient 设为 false
