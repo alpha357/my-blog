@@ -5,11 +5,16 @@ export interface Album { id: string; title: string; description: string; cover: 
 export const albums: Album[] = [
   {
     "id": "terra-journey",
-    "title": "泰拉大陆纪行",
+    "title": "MD纪行",
     "description": "关于源石、孤星与前文明的视觉记录（测试用相册）",
     "cover": "https://bu.dusays.com/2026/03/24/69c24230de927.jpg",
     "date": "2026.01",
-    "photos": []
+    "photos": [
+      {
+        "url": "https://bu.dusays.com/2026/07/14/6a562c06b87f5.jpg",
+        "caption": ""
+      }
+    ]
   },
   {
     "id": "history-tour",
