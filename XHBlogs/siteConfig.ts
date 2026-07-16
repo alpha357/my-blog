@@ -30,6 +30,10 @@ export const siteConfig = {
   // 5. 首页照片墙预览图
   photoWallImage: "https://bu.dusays.com/2026/07/14/6a562c06b87f5.jpg",
   cloudMusicIds: ["28178158", "1339711987", "580817","642998"],
+  musicCollections: [
+    { name: "收藏夹一", songIds: ["28178158", "1339711987", "580817"] },
+    { name: "收藏夹二", songIds: ["642998"] },
+  ],
   social: {
     github: "https://github.com/alpha357",
     gitee: "",
